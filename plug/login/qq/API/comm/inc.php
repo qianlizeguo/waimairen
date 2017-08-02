@@ -1,0 +1,1 @@
+{"appid":"101250366","appkey":"cd7af482fed5e8a183d485e06565eb90","callback":"http://www.gggggf.com/member/otherlogin/logintype/qq","storageType":"file","host":"localhost","user":"root","password":"root","database":"test","scope":"get_user_info","errorReport":false}
